@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(90deg,cyan,rgb(0, 201, 201));
+}
+#confirmB{
+    background: linear-gradient(cyan,darkcyan);
+    width: 45%;
+    height: 7vh;
+    border-radius: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#clearData{
+    background: linear-gradient(red,darkred);
+    width: 40%;
+    height: 6vh;
+    border-radius: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#userName{
+    background: linear-gradient(white,lightgray);
+    width: 75%;
+    height: 7vh;
+    border-radius: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tableCentered{
+    margin-top: 10%;
+    background: linear-gradient(white,rgb(231, 231, 231));
+    width: 90%;
+    height: 50vh;
+    border-radius: 5%;
+}
+
+#userDataTable{
+    margin-top: 5%;
+    background: linear-gradient(white,rgb(231, 231, 231));
+    width: 90%;
+    height: 40vh;
+    border-radius: 5%;
+}
+
+#labelName{
+    color: rgb(0, 197, 0);
+}
